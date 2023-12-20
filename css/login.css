@@ -1,0 +1,63 @@
+/* css */
+
+  *{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+  }
+
+ body{
+      background: #C8C5C6;
+ }
+
+.row{
+    padding: 0px;
+    background: #FADBD8;
+    border-radius: 30px;
+    box-shadow: 12px 12px 22px #566573;
+   }
+
+img{
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+
+}
+
+.btn1{
+      border: none;
+      outline: none;
+      height: 50px;
+      width: 100%;
+      background-color: #000000;
+      color:#ffffff;
+      border-radius: 6px;
+
+
+}
+.btn1:hover{
+           background: #ffffff;
+           border: 1.5px solid;
+           color: #000000;
+           font-weight: bold;
+
+}
+
+.form-control:hover{
+                    background: #ffffff;
+                    border: 1.5px solid;
+                    color: #000000;
+
+}
+p{
+  font-weight: bold;
+
+}
+a{
+  font-weight: bold;
+}
+/* p:hover{
+  color: #E74C3C;
+} */
+a:hover{
+  color: #E74C3C;
+}
